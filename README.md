@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MatGrn
-- 👀 je suis acutellement étudiant
+- 👀 je suis actutellement étudiant
 - 🌱 j'apprends différents language de dev Web
 - 📫 vous pouvez me retrouver sur linkdeen
 
