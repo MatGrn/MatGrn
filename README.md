@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MatGrn
-- 👀 je suis actutellement étudiant
+- 👀 je suis actuellement étudiant
 - 🌱 j'apprends différents language de dev Web
 
 <!---
